@@ -1,0 +1,200 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
+}
+
+.sate-bar {
+    background-color: rgb(43, 67, 119);
+    width: 300px;
+    height: 940px;
+}
+
+.logo img {
+    height: 70px;
+    width: 70px;
+    margin-top: 20px;
+    margin-left: 42px;
+}
+
+.logo-h {
+    color: white;
+    font-size: 20px;
+    margin-left: 42px;
+}
+
+.reg a {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 85px;
+}
+
+.reg {
+    margin-top: 200px;
+}
+
+.exit a {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 85px
+}
+
+.exit {
+    margin-top: 20px;
+}
+
+.white-list {
+    width: 1000px;
+    height: 700px;
+    margin-left: 620px;
+    margin-top: -920px;
+}
+
+.white-list h1 {
+    color: black;
+    font-size: 20px;
+    margin-left: -280px;
+}
+
+.login {
+    width: 460px;
+    height: 260px;
+    background-color: rgb(43, 67, 119);
+    border-radius: 25px;
+    margin-top: 180px;
+    margin-left: 120px;
+}
+
+.login input {
+    width: 360px;
+    height: 40px;
+    margin-left: 50px;
+}
+
+.login p {
+    color: white;
+    font-size: 14px;
+    margin-left: 50px;
+}
+
+.login-c {
+    padding-top: 2px;
+}
+
+.login-2 {
+    width: 460px;
+    height: 580px;
+    background-color: rgb(43, 67, 119);
+    border-radius: 25px;
+    margin-top: 120px;
+    margin-left: 120px;
+}
+
+.login-2 input {
+    width: 360px;
+    height: 40px;
+    margin-left: 50px;
+}
+
+.login-2 p {
+    color: white;
+    font-size: 14px;
+    margin-left: 50px;
+}
+
+.login-c-2 {
+    padding-top: 2px;
+}
+
+.login-3 {
+    width: 460px;
+    height: 780px;
+    background-color: rgb(43, 67, 119);
+    border-radius: 25px;
+    margin-left: 120px;
+}
+
+.login-3 input {
+    width: 360px;
+    height: 40px;
+    margin-left: 50px;
+}
+
+.login-3 p {
+    color: white;
+    font-size: 14px;
+    margin-left: 50px;
+}
+
+.login-c-3 {
+    padding-top: 2px;
+}
+
+.login-c button {
+    background-color: rgb(59, 176, 255);
+    width: 90px;
+    height: 35px;
+    color: black;
+    border-radius: 25px;
+    margin-top: 20px;
+    margin-left: 330px;
+    border: none;
+}
+
+.login-c-2 button {
+    background-color: rgb(59, 176, 255);
+    width: 140px;
+    height: 35px;
+    color: black;
+    border-radius: 25px;
+    margin-top: 20px;
+    margin-left: 280px;
+    border: none;
+}
+
+.login-c-3 button {
+    background-color: rgb(59, 176, 255);
+    width: 140px;
+    height: 35px;
+    color: black;
+    border-radius: 25px;
+    margin-top: 20px;
+    margin-left: 280px;
+    border: none;
+}
+
+.text-slot input {
+    width: 360px;
+    height: 100px;
+}
+
+.usluga select {
+    width: 260px;
+    height: 40px;
+    margin-left: 50px;
+}
+
+.check-box {
+    margin-left: 140px;
+    margin-top: -90px;
+}
+
+.check-box p {
+    padding-left: 140px;
+}
+
+.bt button {
+    background-color: rgb(59, 176, 255);
+    width: 140px;
+    height: 35px;
+    color: black;
+    border-radius: 25px;
+    margin-top: 20px;
+    border: none;
+    margin-left: -275px;
+}
+
+.form-bar {
+    margin-top: 30px;
+    margin-left: -275px;
+}
